@@ -1,0 +1,13 @@
+Car Insurance data set from Kaggle
+
+15.3 observations by 6 predictors
+
+Policy Number
+Number of Vehicles
+Average Age
+Gender Dummy
+Married Dummy
+Avg Vehicle Age
+Fuel Type Dummy
+Losses (Target)
+
